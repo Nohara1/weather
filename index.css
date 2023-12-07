@@ -56,3 +56,43 @@ body{
     font-size: 40px;
     text-align: center;
 }
+.main__city{
+    position: absolute;
+    font-size: 60px;
+    left: 43%;
+}
+.main__weather{
+    position: absolute;
+    width: 30%;
+    height: 45%;
+    left: 35%;
+    top: 30%;
+}
+.main__weather-description{
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto;
+}
+.main__weather-photo{
+    width: 30%;
+    position: relative;
+    left: 35%;
+}
+.main__weather-temp{
+    font-size: 35px;
+    text-align: center;
+}
+.main__divCitata{
+    position: absolute;
+    width: 80%;
+    height: 15%;
+    top: 80%;
+    left: 10%;
+}
+.main__divCitata-citata{
+    text-align: center;
+    font-size: 30px;
+    color: darkgoldenrod;
+}
